@@ -1,4 +1,4 @@
-
+#I didn't make any predictions because I already knew about the game after learning about it in class before.
 
 import random
 
@@ -36,3 +36,7 @@ percent = success/times * 100 #This takes the iterations and successes and turns
 
 
 print(str(percent)+"%") #Printing out the percent
+
+
+#When I first learned about the puzzle, I didn't immediately realize the solution (being the decision to always switch). After the solution was revealed though, it made total sense that there was a 66% chance of winning if you switch and 33% for not switching. 
+
