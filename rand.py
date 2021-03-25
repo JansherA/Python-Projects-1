@@ -1,5 +1,6 @@
 import random
 
+
 #1st
 #list1 = []
 #a = range(0,100)
